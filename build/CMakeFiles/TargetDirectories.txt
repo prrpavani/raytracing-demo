@@ -1,0 +1,3 @@
+/Users/rrpavani/Documents/raytracing/raytracing-demo/build/CMakeFiles/inOneWeekend.dir
+/Users/rrpavani/Documents/raytracing/raytracing-demo/build/CMakeFiles/edit_cache.dir
+/Users/rrpavani/Documents/raytracing/raytracing-demo/build/CMakeFiles/rebuild_cache.dir
